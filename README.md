@@ -10,4 +10,4 @@ Model was trained over 45 epochs and the epoch showing best result was saved as 
 
 Accuracy: 60.63% on validation set & 61.23% on test set.
 
-Working with high accuracy in real-time.
+Working with high accuracy in real-time. Some of the samples are in the Results folder.
